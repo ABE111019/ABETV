@@ -84,6 +84,58 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Ahl Alquran" tvg-logo="" group-title="Islam",Ahl Alquran
+http://etv.nikala.se:1996/45924301150697/45924301150697/224325
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Al Hadeeth Al Nabawy" tvg-logo="http://drtv.ga:2021/images/3def184ad8f4755ff269862ea77393dd.png" group-title="Islam",Al Majd Al Hadeeth Al Nabawy
+http://etv.nikala.se:1996/45924301150697/45924301150697/2221
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Public Channel" tvg-logo="" group-title="Islam",Al Majd Public Channel
+http://etv.nikala.se:1996/45924301150697/45924301150697/7199
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Quran" tvg-logo="http://drtv.ga:2021/images/e70611883d2760c8bbafb4acb29e3446.png" group-title="Islam",Al Majd Quran
+http://etv.nikala.se:1996/45924301150697/45924301150697/2220
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Scientific" tvg-logo="http://cdn2.ga:2021/images/f64eac11f2cd8f0efa196f8ad173178e.png" group-title="Islam",Al Majd Scientific
+http://etv.nikala.se:1996/45924301150697/45924301150697/2222
+#EXTINF:-1 tvg-id="" tvg-name="Al nas TV" tvg-logo="http://158.69.124.154/PICONS-AP-OTT/ISLAMIC/Al nas.png" group-title="Islam",Al nas TV
+http://etv.nikala.se:1996/45924301150697/45924301150697/538
+#EXTINF:-1 tvg-id="" tvg-name="Al Rahma" tvg-logo="http://cdn2.ga:2021/images/298923c8190045e91288b430794814c4.png" group-title="Islam",Al Rahma
+http://etv.nikala.se:1996/45924301150697/45924301150697/537
+#EXTINF:-1 tvg-id="" tvg-name="Al Resala" tvg-logo="http://cdn2.ga:2021/images/1368ba1ab6ed38bb1f26f36673739d54.png" group-title="Islam",Al Resala
+http://etv.nikala.se:1996/45924301150697/45924301150697/536
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="http://158.69.124.154/PICONS-AP-OTT/PICONS-BOUQUET-ARABIC/IQRAA.png" group-title="Islam",Iqraa
+http://etv.nikala.se:1996/45924301150697/45924301150697/535
+#EXTINF:-1 tvg-id="" tvg-name="Misr Quran Kareem" tvg-logo="http://drtv.ga:2021/images/7a55696d064799c8abaa4eabbedc4466.png" group-title="Islam",Misr Quran Kareem
+http://etv.nikala.se:1996/45924301150697/45924301150697/184013
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Quran" tvg-logo="http://158.69.124.154/PICONS-AP-OTT/PICONS-BOUQUET-ARABIC/SAUDIQUARAN.png" group-title="Islam",Saudi Quran
+http://etv.nikala.se:1996/45924301150697/45924301150697/532
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="http://cdn2.ga:2021/images/953ca576dc6a7a8f31f74b0b314b1809.png" group-title="Islam",Saudi Sunnah
+http://etv.nikala.se:1996/45924301150697/45924301150697/530
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera FHD" tvg-logo="" group-title="Arabic News",Aljazeera FHD
+http://etv.nikala.se:1996/45924301150697/45924301150697/213850
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera HD" tvg-logo="http://goldplus.ga:2021/images/47521dbd84531463393d2027e0cab3f0.png" group-title="Arabic News",Aljazeera HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/561
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera SD" tvg-logo="" group-title="Arabic News",Aljazeera SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/213851
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera Documentary" tvg-logo="http://drtv.ga:2021/images/088c6e47405e3f20e57b519c984b3808.png" group-title="Arabic News",Aljazeera Documentary
+http://etv.nikala.se:1996/45924301150697/45924301150697/552
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath HD" tvg-logo="http://goldplus.ga:2021/images/05b8eded75c7b42c86b711a9284258de.png" group-title="Arabic News",Al Hadath HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/559
+#EXTINF:-1 tvg-id="" tvg-name="Al arabiya" tvg-logo="http://cdn2.ga:2021/images/b6883b9053cc9f07082a7d83ac83af42.png" group-title="Arabic News",Al arabiya
+http://etv.nikala.se:1996/45924301150697/45924301150697/560
+#EXTINF:-1 tvg-id="" tvg-name="Al Hiwar HD" tvg-logo="http://goldplus.ga:2021/images/fbfa235e1aca21984bc3d28f565e7a7c.png" group-title="Arabic News",Al Hiwar HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/15509
+#EXTINF:-1 tvg-id="" tvg-name="BBC World Arabic" tvg-logo="http://goldplus.ga:2021/images/47d1e990583c9c67424d369f3414728e.png" group-title="Arabic News",BBC World Arabic
+http://etv.nikala.se:1996/45924301150697/45924301150697/554
+#EXTINF:-1 tvg-id="" tvg-name="DW Arabia HD" tvg-logo="http://goldplus.ga:2021/images/0bdfe2e55090d6be70793778d0d8e147.png" group-title="Arabic News",DW Arabia HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/553
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Arabic" tvg-logo="http://cdn2.ga:2021/images/b29837b83fe6420556ce9d5c86e28012.png" group-title="Arabic News",France 24 Arabic
+http://etv.nikala.se:1996/45924301150697/45924301150697/558
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia HD" tvg-logo="http://goldplus.ga:2021/images/c2accfef9b8710c481cbfcc4ac86327a.png" group-title="Arabic News",Sky News Arabia HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/557
+#EXTINF:-1 tvg-id="" tvg-name="Al Mayadeen TV" tvg-logo="http://cdn2.ga:2021/images/0e4fb4e9f17d4617ac6c152710c02097.png" group-title="Arabic News",Al Mayadeen TV
+http://etv.nikala.se:1996/45924301150697/45924301150697/15035
+#EXTINF:-1 tvg-id="" tvg-name="TRT Arabic HD" tvg-logo="http://goldplus.ga:2021/images/62e1bfb2517690b507ad6e63415943d1.png" group-title="Arabic News",TRT Arabic HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/15510
+#EXTINF:-1 tvg-id="" tvg-name="Asharq News HD" tvg-logo="http://goldplus.ga:2021/images/5cb326a348a898c8795198eee68740d1.png" group-title="Arabic News",Asharq News HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/149738
 
 #EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="Decouverte",National Geographic Abu Dhabi (1080p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -207,56 +259,6 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/108160
 http://etv.nikala.se:1996/45924301150697/45924301150697/108159
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Docs HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/202x150/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40182/canal-ouah/CHN43FN/Canal_Docs_pivot_FN" group-title="France Canal+",Canal+ Docs HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/184026
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Club HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe99d3faede9e4cfc.2Epng/1200x630/crop-from/top/quality/80/cine-club.png" group-title="France Cinema",Cine+ Club HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108164
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CinePlusClassic.svg/1200px-CinePlusClassic.svg.png" group-title="France Cinema",Cine+ Classic HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108165
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="France Cinema",Cine+ Emotion HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108166
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson HD" tvg-logo="http://smartes-plus.com:1996/images/67e7a0c07a2769a3ac33b07074f92ac0.png" group-title="France Cinema",Cine+ Frisson HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108167
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premier HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd1af2f83a8427bbc.2Epng/1200x630/crop-from/top/quality/80/cine-premier.png" group-title="France Cinema",Cine+ Premier HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108168
-#EXTINF:-1 tvg-id="" tvg-name="Cine  Famiz HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5b188434d2cfeb95.2Epng/1200x630/crop-from/top/quality/80/cine-famiz.png" group-title="France Cinema",Cine  Famiz HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108169
-#EXTINF:-1 tvg-id="" tvg-name="OCS Max HD" tvg-logo="https://ewsat.com/img/OCS_MAX.png" group-title="France Cinema",OCS Max HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108170
-#EXTINF:-1 tvg-id="" tvg-name="OCS Choc HD" tvg-logo="https://ewsat.com/img/OCS_CHOC.png" group-title="France Cinema",OCS Choc HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108171
-#EXTINF:-1 tvg-id="" tvg-name="OCS City HD" tvg-logo="https://www.frtv.fr/wp-content/uploads/2021/01/OCS-CITY.HD_.png" group-title="France Cinema",OCS City HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108172
-#EXTINF:-1 tvg-id="" tvg-name="OCS Geants HD" tvg-logo="https://ewsat.com/img/OCS_GEANTS.png" group-title="France Cinema",OCS Geants HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108173
-#EXTINF:-1 tvg-id="" tvg-name="13eme RUE HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_(logo).svg/2044px-13e_rue_2010_(logo).svg.png" group-title="France Cinema",13eme RUE HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108174
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304440" group-title="France Cinema",Paramount Channel HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108175
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Decale HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304440" group-title="France Cinema",Paramount Channel Decale HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108176
-#EXTINF:-1 tvg-id="" tvg-name="Serie Club HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304590" group-title="France Cinema",Serie Club HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108177
-#EXTINF:-1 tvg-id="" tvg-name="TCM Cinema HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91743311" group-title="France Cinema",TCM Cinema HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108178
-#EXTINF:-1 tvg-id="" tvg-name="Syfy HD FR" tvg-logo="http://neotv.gq:2052/images/00dbec82934a4e2d3e5cbd68598cb398.png" group-title="France Cinema",Syfy HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108179
-#EXTINF:-1 tvg-id="" tvg-name="RTL 9 HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304497" group-title="France Cinema",RTL 9 HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108180
-#EXTINF:-1 tvg-id="" tvg-name="Action HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304467" group-title="France Cinema",Action HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108181
-#EXTINF:-1 tvg-id="" tvg-name="AB1 HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40090/canal-ouah/CHN43FN/CHN43FN_40090_20220307" group-title="France Cinema",AB1 HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108182
-#EXTINF:-1 tvg-id="" tvg-name="AB3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_AB3.svg/1280px-Logo_AB3.svg.png" group-title="France Cinema",AB3 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108183
-#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD FR" tvg-logo="http://neotv.gq:2052/images/3f643194842f2c38094e5c0dd8102e71.png" group-title="France Cinema",E! Entertainment HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108184
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="France Cinema",Comedy Central HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108186
-#EXTINF:-1 tvg-id="" tvg-name="Polar+ HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304628" group-title="France Cinema",Polar+ HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108187
-#EXTINF:-1 tvg-id="" tvg-name="Altice Studio HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~d1946cc8c0017e1a.png/1200x630/crop-from/top/quality/80/altice-studio.png" group-title="France Cinema",Altice Studio HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108188
-#EXTINF:-1 tvg-id="" tvg-name="Novelas TV HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91743358" group-title="France Cinema",Novelas TV HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/194191
 #EXTINF:-1 tvg-id="" tvg-name="Piwi+ HD FR" tvg-logo="http://cdn2.ga:2021/images/c26ef0e9d6ecef68e241a7732d2dedcd.png" group-title="France Enfant",Piwi+ HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108225
 #EXTINF:-1 tvg-id="" tvg-name="TIJI HD FR" tvg-logo="http://cdn2.ga:2021/images/232e0b8cf0d28bc80aa685daf6e9c729.png" group-title="France Enfant",TIJI HD FR
@@ -420,41 +422,92 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/108269
 http://etv.nikala.se:1996/45924301150697/45924301150697/108270
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD FR" tvg-logo="http://cdn2.ga:2021/images/502a9991fd28919c0dc649bf3b0c41d2.png" group-title="France Sport",Eurosport 2 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108271
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France Amazon FR",Amazon Prime 1 HD FR
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Club HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe99d3faede9e4cfc.2Epng/1200x630/crop-from/top/quality/80/cine-club.png" group-title="France autres",Cine+ Club HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108164
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CinePlusClassic.svg/1200px-CinePlusClassic.svg.png" group-title="France autres",Cine+ Classic HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108165
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="France autres",Cine+ Emotion HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108166
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson HD" tvg-logo="http://smartes-plus.com:1996/images/67e7a0c07a2769a3ac33b07074f92ac0.png" group-title="France autres",Cine+ Frisson HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108167
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premier HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd1af2f83a8427bbc.2Epng/1200x630/crop-from/top/quality/80/cine-premier.png" group-title="France autres",Cine+ Premier HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108168
+#EXTINF:-1 tvg-id="" tvg-name="Cine  Famiz HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5b188434d2cfeb95.2Epng/1200x630/crop-from/top/quality/80/cine-famiz.png" group-title="France autres",Cine  Famiz HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108169
+#EXTINF:-1 tvg-id="" tvg-name="OCS Max HD" tvg-logo="https://ewsat.com/img/OCS_MAX.png" group-title="France autres",OCS Max HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108170
+#EXTINF:-1 tvg-id="" tvg-name="OCS Choc HD" tvg-logo="https://ewsat.com/img/OCS_CHOC.png" group-title="France autres",OCS Choc HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108171
+#EXTINF:-1 tvg-id="" tvg-name="OCS City HD" tvg-logo="https://www.frtv.fr/wp-content/uploads/2021/01/OCS-CITY.HD_.png" group-title="France autres",OCS City HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108172
+#EXTINF:-1 tvg-id="" tvg-name="OCS Geants HD" tvg-logo="https://ewsat.com/img/OCS_GEANTS.png" group-title="France autres",OCS Geants HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108173
+#EXTINF:-1 tvg-id="" tvg-name="13eme RUE HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_(logo).svg/2044px-13e_rue_2010_(logo).svg.png" group-title="France autres",13eme RUE HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108174
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304440" group-title="France autres",Paramount Channel HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108175
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel Decale HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304440" group-title="France autres",Paramount Channel Decale HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108176
+#EXTINF:-1 tvg-id="" tvg-name="Serie Club HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304590" group-title="France autres",Serie Club HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108177
+#EXTINF:-1 tvg-id="" tvg-name="TCM Cinema HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91743311" group-title="France autres",TCM Cinema HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108178
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD FR" tvg-logo="http://neotv.gq:2052/images/00dbec82934a4e2d3e5cbd68598cb398.png" group-title="France autres",Syfy HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108179
+#EXTINF:-1 tvg-id="" tvg-name="RTL 9 HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304497" group-title="France autres",RTL 9 HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108180
+#EXTINF:-1 tvg-id="" tvg-name="Action HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304467" group-title="France autres",Action HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108181
+#EXTINF:-1 tvg-id="" tvg-name="AB1 HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40090/canal-ouah/CHN43FN/CHN43FN_40090_20220307" group-title="France autres",AB1 HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108182
+#EXTINF:-1 tvg-id="" tvg-name="AB3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_AB3.svg/1280px-Logo_AB3.svg.png" group-title="France autres",AB3 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108183
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD FR" tvg-logo="http://neotv.gq:2052/images/3f643194842f2c38094e5c0dd8102e71.png" group-title="France autres",E! Entertainment HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108184
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="France autres",Comedy Central HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108186
+#EXTINF:-1 tvg-id="" tvg-name="Polar+ HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/68304628" group-title="France autres",Polar+ HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108187
+#EXTINF:-1 tvg-id="" tvg-name="Altice Studio HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~d1946cc8c0017e1a.png/1200x630/crop-from/top/quality/80/altice-studio.png" group-title="France autres",Altice Studio HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108188
+#EXTINF:-1 tvg-id="" tvg-name="Novelas TV HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91743358" group-title="France autres",Novelas TV HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/194191
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 1 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France autres",Amazon Prime 1 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/200798
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France Amazon FR",Amazon Prime 2 HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France autres",Amazon Prime 2 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/200799
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 3 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France Amazon FR",Amazon Prime 3 HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 3 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France autres",Amazon Prime 3 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/200800
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 4 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France Amazon FR",Amazon Prime 4 HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 4 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France autres",Amazon Prime 4 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/200801
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 5 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France Amazon FR",Amazon Prime 5 HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 5 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France autres",Amazon Prime 5 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/200802
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 6 HD FR" tvg-logo="http://smartes-plus.com:1996/images/b181b53837e47b1ddb420e708495558d.jpg" group-title="France Amazon FR",Amazon Prime 6 HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 6 HD FR" tvg-logo="http://smartes-plus.com:1996/images/b181b53837e47b1ddb420e708495558d.jpg" group-title="France autres",Amazon Prime 6 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/200803
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 7 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France Amazon FR",Amazon Prime 7 HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 7 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France autres",Amazon Prime 7 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/200804
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 8 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France Amazon FR",Amazon Prime 8 HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 8 HD FR" tvg-logo="https://www.xda-developers.com/files/2020/03/amazon-prime-video.jpg" group-title="France autres",Amazon Prime 8 HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/213798
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo HD" tvg-logo="" group-title="France Music",Mezzo HD
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo HD" tvg-logo="" group-title="France autres",Mezzo HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/213799
-#EXTINF:-1 tvg-id="" tvg-name="BET HD FR" tvg-logo="http://cdn2.ga:2021/images/65345f183b224683684c289e3a06c7b8.png" group-title="France Music",BET HD FR
+#EXTINF:-1 tvg-id="" tvg-name="BET HD FR" tvg-logo="http://cdn2.ga:2021/images/65345f183b224683684c289e3a06c7b8.png" group-title="France autres",BET HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108283
-#EXTINF:-1 tvg-id="" tvg-name="M6 Music HD FR" tvg-logo="http://cdn2.ga:2021/images/cac5438ea28581c43d4ca419db44d7b9.png" group-title="France Music",M6 Music HD FR
+#EXTINF:-1 tvg-id="" tvg-name="M6 Music HD FR" tvg-logo="http://cdn2.ga:2021/images/cac5438ea28581c43d4ca419db44d7b9.png" group-title="France autres",M6 Music HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108285
-#EXTINF:-1 tvg-id="" tvg-name="MCM HD FR" tvg-logo="http://cdn2.ga:2021/images/2aefcdb843756feabb8dfce3f6e5d888.png" group-title="France Music",MCM HD FR
+#EXTINF:-1 tvg-id="" tvg-name="MCM HD FR" tvg-logo="http://cdn2.ga:2021/images/2aefcdb843756feabb8dfce3f6e5d888.png" group-title="France autres",MCM HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108282
-#EXTINF:-1 tvg-id="" tvg-name="MTV France HD FR" tvg-logo="http://cdn2.ga:2021/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="France Music",MTV France HD FR
+#EXTINF:-1 tvg-id="" tvg-name="MTV France HD FR" tvg-logo="http://cdn2.ga:2021/images/b49882eae96bb41a7fa1feb6aa7acc18.png" group-title="France autres",MTV France HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108280
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits HD FR" tvg-logo="http://cdn2.ga:2021/images/18af953948772fb973d1b5dc39573983.png" group-title="France Music",MTV Hits HD FR
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits HD FR" tvg-logo="http://cdn2.ga:2021/images/18af953948772fb973d1b5dc39573983.png" group-title="France autres",MTV Hits HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108281
-#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD FR" tvg-logo="http://cdn2.ga:2021/images/99781b6f29e81dd0960e1dafc16ca710.png" group-title="France Music",NRJ Hits HD FR
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits HD FR" tvg-logo="http://cdn2.ga:2021/images/99781b6f29e81dd0960e1dafc16ca710.png" group-title="France autres",NRJ Hits HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108284
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="France Music",Mezzo Live HD
+#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live HD" tvg-logo="" group-title="France autres",Mezzo Live HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/213849
-#EXTINF:-1 tvg-id="" tvg-name="MCM Top HD" tvg-logo="http://smartes-plus.com:1996/images/aca1e6102341f9b58b5d32d2c370537d.png" group-title="France Music",MCM Top HD
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top HD" tvg-logo="http://smartes-plus.com:1996/images/aca1e6102341f9b58b5d32d2c370537d.png" group-title="France autres",MCM Top HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/218173
-#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD FR" tvg-logo="http://neotv.gq:2052/images/e3d1eb05076c67ade8e8fd60660f9349.png" group-title="France Music",Trace Urban HD FR
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban HD FR" tvg-logo="http://neotv.gq:2052/images/e3d1eb05076c67ade8e8fd60660f9349.png" group-title="France autres",Trace Urban HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/218174
 
 
