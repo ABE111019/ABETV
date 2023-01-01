@@ -141,6 +141,10 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/149738
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Decouverte",Al Jazeera Documentary (270p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 5 HD" tvg-logo="http://smartes-plus.com:1996/images/34e4184aa48a90975d0cee883e214021.png" group-title="Decouverte",France 5 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108140
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="https://fransat.co.uk/img/FransatChannelImages/arte_fr.png" group-title="Decouverte",Arte HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108206
 #EXTINF:-1 tvg-id="" tvg-name="Planete+ HD FR" tvg-logo="http://cdn2.ga:2021/images/9c1da5846bffd73cec6d67eca13185d0.png" group-title="Decouverte",Planete+ HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108208
 #EXTINF:-1 tvg-id="" tvg-name="Planete+ A&E HD FR" tvg-logo="http://cdn2.ga:2021/images/266f9f2ddf8617ef083e53c963bc1dc5.png" group-title="Decouverte",Planete+ A&E HD FR
@@ -512,3 +516,27 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/218174
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 1 HD" tvg-logo="" group-title="Relaxing",Relaxing 1 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224254
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 2 HD" tvg-logo="" group-title="Relaxing",Relaxing 2 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224261
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 3 HD" tvg-logo="" group-title="Relaxing",Relaxing 3 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224262
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 4 HD" tvg-logo="" group-title="Relaxing",Relaxing 4 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224263
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 5 HD" tvg-logo="" group-title="Relaxing",Relaxing 5 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224264
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 6 HD" tvg-logo="" group-title="Relaxing",Relaxing 6 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224326
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 7 HD" tvg-logo="" group-title="Relaxing",Relaxing 7 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224327
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 8 HD" tvg-logo="" group-title="Relaxing",Relaxing 8 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224328
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 9 HD" tvg-logo="" group-title="Relaxing",Relaxing 9 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224329
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 10 HD" tvg-logo="" group-title="Relaxing",Relaxing 10 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224330
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 11 HD" tvg-logo="" group-title="Relaxing",Relaxing 11 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224331
+#EXTINF:-1 tvg-id="" tvg-name="Relaxing 12 HD" tvg-logo="" group-title="Relaxing",Relaxing 12 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224332
