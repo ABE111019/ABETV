@@ -67,12 +67,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 
 
-
-
-
-
-
-#EXTM3U
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="FRANCE",A LA CARTE 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8028.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="FR" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="FRANCE",A LA CARTE 12
