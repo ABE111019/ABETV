@@ -19,10 +19,49 @@ https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
 
 
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="Documentaire",National Geographic Abu Dhabi (1080p)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Documentaire",Al Jazeera Documentary (270p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc HD" tvg-logo="http://smartes-plus.com:1996/images/8ce6790cc6a94e65f17f908f462fae85.png" group-title="Maroc HD",Tele Maroc HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/25
+#EXTINF:-1 tvg-id="" tvg-name="Arrabia HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/761.png" group-title="Maroc HD",Arrabia HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/27
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia TV HD" tvg-logo="http://smartes-plus.com:1996/images/6c29793a140a811d0c45ce03c1c93a28.png" group-title="Maroc HD",Arryadia TV HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/900
+#EXTINF:-1 tvg-id="" tvg-name="Chada TV HD" tvg-logo="http://smartes-plus.com:1996/images/fae0b27c451c728867a567e8c1bb4e53.png" group-title="Maroc HD",Chada TV HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/2193
+#EXTINF:-1 tvg-id="" tvg-name="Al Oula Laayoun HD" tvg-logo="http://smartes-plus.com:1996/images/8ebda540cbcc4d7336496819a46a1b68.png" group-title="Maroc HD",Al Oula Laayoun HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/6682
+#EXTINF:-1 tvg-id="" tvg-name="2M Maroc" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/121.png" group-title="Maroc HD",2M Maroc
+http://etv.nikala.se:1996/45924301150697/45924301150697/21056
+#EXTINF:-1 tvg-id="" tvg-name="Oula Maroc HD" tvg-logo="http://smartes-plus.com:1996/images/5751ec3e9a4feab575962e78e006250d.png" group-title="Maroc HD",Oula Maroc HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/21057
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/56.png" group-title="Maroc HD",Al Maghribia HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/21058
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/147.png" group-title="Maroc HD",Assadissa HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/21059
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/487.png" group-title="Maroc HD",Tamazight HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/21061
+#EXTINF:-1 tvg-id="" tvg-name="M24 TV HD" tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png" group-title="Maroc HD",M24 TV HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/46291
+#EXTINF:-1 tvg-id="" tvg-name="Medi1TV Maghreb HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/166.png" group-title="Maroc HD",Medi1TV Maghreb HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/96204
+#EXTINF:-1 tvg-id="" tvg-name="2M Monde TV" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/121.png" group-title="Maroc HD",2M Monde TV
+http://etv.nikala.se:1996/45924301150697/45924301150697/96636
+#EXTINF:-1 tvg-id="" tvg-name="Medi1TV Arabic HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/166.png" group-title="Maroc HD",Medi1TV Arabic HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/97124
+#EXTINF:-1 tvg-id="" tvg-name="2M Maroc TNT" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/121.png" group-title="Maroc HD",2M Maroc TNT
+http://etv.nikala.se:1996/45924301150697/45924301150697/115752
+#EXTINF:-1 tvg-id="" tvg-name="Aflam 7 TNT HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/352.png" group-title="Maroc HD",Aflam 7 TNT HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/115753
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula TNT HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/350.png" group-title="Maroc HD",Al Aoula TNT HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/115755
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia TNT HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/351.png" group-title="Maroc HD",Arryadia TNT HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/115756
+#EXTINF:-1 tvg-id="" tvg-name="Medi1TV Afrique HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/166.png" group-title="Maroc HD",Medi1TV Afrique HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/184012
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5 HD" tvg-logo="https://mbc-5.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc5.png" group-title="Maroc HD",MBC 5 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/187635
+
 
 
 #EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Moyen orient",Al Jazeera Arabic (1080p)
@@ -43,6 +82,51 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e4364
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Moyen orient",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="Decouverte",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Decouverte",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ HD FR" tvg-logo="http://cdn2.ga:2021/images/9c1da5846bffd73cec6d67eca13185d0.png" group-title="Decouverte",Planete+ HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108208
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ A&E HD FR" tvg-logo="http://cdn2.ga:2021/images/266f9f2ddf8617ef083e53c963bc1dc5.png" group-title="Decouverte",Planete+ A&E HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108209
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ CI HD FR" tvg-logo="http://cdn2.ga:2021/images/e4aa3f53ff9421a7f237e01ec0b44272.png" group-title="Decouverte",Planete+ CI HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108210
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD HD FR" tvg-logo="http://cdn2.ga:2021/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="Decouverte",Nat Geo WILD HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108211
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD FR" tvg-logo="http://cdn2.ga:2021/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="Decouverte",National Geographic HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108212
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV HD FR" tvg-logo="http://cdn2.ga:2021/images/c52e5234714d28ccfd40e213f2142739.png" group-title="Decouverte",Ushuaia TV HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108213
+#EXTINF:-1 tvg-id="" tvg-name="Animaux HD FR" tvg-logo="http://cdn2.ga:2021/images/76c0323e99ebe06f51805c257981d468.png" group-title="Decouverte",Animaux HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108214
+#EXTINF:-1 tvg-id="" tvg-name="Science & Vie HD FR" tvg-logo="http://cdn2.ga:2021/images/78aadb9b22ebdb98e58055463b7ce9bf.png" group-title="Decouverte",Science & Vie HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108215
+#EXTINF:-1 tvg-id="" tvg-name="Chasse & Peche HD FR" tvg-logo="http://cdn2.ga:2021/images/04b1d137da63241f8f855c8ebbcae87c.png" group-title="Decouverte",Chasse & Peche HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108216
+#EXTINF:-1 tvg-id="" tvg-name="Season HD FR" tvg-logo="http://cdn2.ga:2021/images/8ea4fc5437269d5ae6f73eb229a165c7.png" group-title="Decouverte",Season HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108217
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD FR" tvg-logo="http://cdn2.ga:2021/images/e3d4370296451491db771140cd44ea6d.png" group-title="Decouverte",Discovery HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108218
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD FR" tvg-logo="http://cdn2.ga:2021/images/1a17a56f4aa63450618d57e84f620565.png" group-title="Decouverte",Discovery Science HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108219
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD FR" tvg-logo="http://cdn2.ga:2021/images/5159ee3c62409505fc5a3d54dc7bcafb.png" group-title="Decouverte",Discovery Investigation HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108220
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte HD FR" tvg-logo="http://cdn2.ga:2021/images/43bb252d829f3ea6fe15336d9f6bac2c.png" group-title="Decouverte",RMC Decouverte HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108221
+#EXTINF:-1 tvg-id="" tvg-name="Crime District HD FR" tvg-logo="http://cdn2.ga:2021/images/d4bd3f639a654565c49dda3d950f62b7.png" group-title="Decouverte",Crime District HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/149751
+#EXTINF:-1 tvg-id="" tvg-name="Histoire HD FR" tvg-logo="http://cdn2.ga:2021/images/ac072ed682fec5f303dc81cd3076abc8.png" group-title="Decouverte",Histoire HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108223
+#EXTINF:-1 tvg-id="" tvg-name="Toute l'Histoire HD FR" tvg-logo="http://cdn2.ga:2021/images/20bddfafa556d3d23d8efaf8eb803bbc.png" group-title="Decouverte",Toute l'Histoire HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108224
+#EXTINF:-1 tvg-id="" tvg-name="Trek HD FR" tvg-logo="http://cdn2.ga:2021/images/02b97c48e57c3e5e2b1992f9c37f068f.png" group-title="Decouverte",Trek HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108222
+#EXTINF:-1 tvg-id="" tvg-name="MUSEUM TV HD FR" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="Decouverte",MUSEUM TV HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/224324
 
 
 
@@ -89,6 +173,30 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/108153
 http://etv.nikala.se:1996/45924301150697/45924301150697/108154
 #EXTINF:-1 tvg-id="" tvg-name="Comedie+ HD" tvg-logo="http://neotv.gq:2052/images/67bc72d5cdd9a55f71408d39865ee2ea.png" group-title="France TNT",Comedie+ HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/108155
+#EXTINF:-1 tvg-id="" tvg-name="La Chaine Meteo HD" tvg-logo="http://smartes-plus.com:1996/images/9c96eb3ff5de639b956650de053ff387.png" group-title="France TNT",La Chaine Meteo HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/218176
+#EXTINF:-1 tvg-id="" tvg-name="LCI HD FR" tvg-logo="http://smartes-plus.com:1996/images/bcaa86ab4661c5cc6f6c7c7a36dc17f2.png" group-title="France TNT",LCI HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108193
+#EXTINF:-1 tvg-id="" tvg-name="CNews HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93469121" group-title="France TNT",CNews HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108195
+#EXTINF:-1 tvg-id="" tvg-name="BFM TV HD FR" tvg-logo="https://fransat.co.uk/img/FransatChannelImages/bfm_tv.png" group-title="France TNT",BFM TV HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108196
+#EXTINF:-1 tvg-id="" tvg-name="BFM Lille TV HD FR" tvg-logo="https://play-lh.googleusercontent.com/hGhyNatojqC5HWvhIXnQEQ5Z2bF2mMrp24_CYRpkLYQ9IS7hC5R_8ZNEPFJJMLTPw_E" group-title="France TNT",BFM Lille TV HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108199
+#EXTINF:-1 tvg-id="" tvg-name="BFM Business HD FR" tvg-logo="http://smartes-plus.com:1996/images/a7c4045c49f84911a01fc6251c274bec.png" group-title="France TNT",BFM Business HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108200
+#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD FR" tvg-logo="http://smartes-plus.com:1996/images/46e05987e7a12e646860f2eb4cb300c9.jpg" group-title="France TNT",I24 NEWS HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108201
+#EXTINF:-1 tvg-id="" tvg-name="FranceInfo: HD FR" tvg-logo="http://smartes-plus.com:1996/images/52d4f1c94eafff70b8eb0a3449369251.jpg" group-title="France TNT",FranceInfo: HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108202
+#EXTINF:-1 tvg-id="" tvg-name="France 24 HD FR" tvg-logo="http://smartes-plus.com:1996/images/460ada22aaa74005e516015d92d43ad6.png" group-title="France TNT",France 24 HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108203
+#EXTINF:-1 tvg-id="" tvg-name="Euronews HD FR" tvg-logo="http://smartes-plus.com:1996/images/a6fa8ba38ee5f7030d97c2efc9535b15.jpg" group-title="France TNT",Euronews HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108204
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="https://fransat.co.uk/img/FransatChannelImages/arte_fr.png" group-title="France TNT",Arte HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108206
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Info HD FR" tvg-logo="http://smartes-plus.com:1996/images/1eab6fc3c28ef8c147ecbbdba54110ae.png" group-title="France TNT",TV5 Monde Info HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108207
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/202x150/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/40052/canal-ouah/CHN43FN/94376385" group-title="France Canal+",Canal+ HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108156
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/202x150/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/56807152" group-title="France Canal+",Canal+ Cinema HD FR
@@ -149,68 +257,6 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/108187
 http://etv.nikala.se:1996/45924301150697/45924301150697/108188
 #EXTINF:-1 tvg-id="" tvg-name="Novelas TV HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91743358" group-title="France Cinema",Novelas TV HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/194191
-#EXTINF:-1 tvg-id="" tvg-name="La Chaine Meteo HD" tvg-logo="http://smartes-plus.com:1996/images/9c96eb3ff5de639b956650de053ff387.png" group-title="France News",La Chaine Meteo HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/218176
-#EXTINF:-1 tvg-id="" tvg-name="LCI HD FR" tvg-logo="http://smartes-plus.com:1996/images/bcaa86ab4661c5cc6f6c7c7a36dc17f2.png" group-title="France News",LCI HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108193
-#EXTINF:-1 tvg-id="" tvg-name="CNews HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93469121" group-title="France News",CNews HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108195
-#EXTINF:-1 tvg-id="" tvg-name="BFM TV HD FR" tvg-logo="https://fransat.co.uk/img/FransatChannelImages/bfm_tv.png" group-title="France News",BFM TV HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108196
-#EXTINF:-1 tvg-id="" tvg-name="BFM Lille TV HD FR" tvg-logo="https://play-lh.googleusercontent.com/hGhyNatojqC5HWvhIXnQEQ5Z2bF2mMrp24_CYRpkLYQ9IS7hC5R_8ZNEPFJJMLTPw_E" group-title="France News",BFM Lille TV HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108199
-#EXTINF:-1 tvg-id="" tvg-name="BFM Business HD FR" tvg-logo="http://smartes-plus.com:1996/images/a7c4045c49f84911a01fc6251c274bec.png" group-title="France News",BFM Business HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108200
-#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD FR" tvg-logo="http://smartes-plus.com:1996/images/46e05987e7a12e646860f2eb4cb300c9.jpg" group-title="France News",I24 NEWS HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108201
-#EXTINF:-1 tvg-id="" tvg-name="FranceInfo: HD FR" tvg-logo="http://smartes-plus.com:1996/images/52d4f1c94eafff70b8eb0a3449369251.jpg" group-title="France News",FranceInfo: HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108202
-#EXTINF:-1 tvg-id="" tvg-name="France 24 HD FR" tvg-logo="http://smartes-plus.com:1996/images/460ada22aaa74005e516015d92d43ad6.png" group-title="France News",France 24 HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108203
-#EXTINF:-1 tvg-id="" tvg-name="Euronews HD FR" tvg-logo="http://smartes-plus.com:1996/images/a6fa8ba38ee5f7030d97c2efc9535b15.jpg" group-title="France News",Euronews HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108204
-#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="https://fransat.co.uk/img/FransatChannelImages/arte_fr.png" group-title="France News",Arte HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108206
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Info HD FR" tvg-logo="http://smartes-plus.com:1996/images/1eab6fc3c28ef8c147ecbbdba54110ae.png" group-title="France News",TV5 Monde Info HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108207
-#EXTINF:-1 tvg-id="" tvg-name="Planete+ HD FR" tvg-logo="http://cdn2.ga:2021/images/9c1da5846bffd73cec6d67eca13185d0.png" group-title="France Decouverte",Planete+ HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108208
-#EXTINF:-1 tvg-id="" tvg-name="Planete+ A&E HD FR" tvg-logo="http://cdn2.ga:2021/images/266f9f2ddf8617ef083e53c963bc1dc5.png" group-title="France Decouverte",Planete+ A&E HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108209
-#EXTINF:-1 tvg-id="" tvg-name="Planete+ CI HD FR" tvg-logo="http://cdn2.ga:2021/images/e4aa3f53ff9421a7f237e01ec0b44272.png" group-title="France Decouverte",Planete+ CI HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108210
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD HD FR" tvg-logo="http://cdn2.ga:2021/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="France Decouverte",Nat Geo WILD HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108211
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD FR" tvg-logo="http://cdn2.ga:2021/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="France Decouverte",National Geographic HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108212
-#EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV HD FR" tvg-logo="http://cdn2.ga:2021/images/c52e5234714d28ccfd40e213f2142739.png" group-title="France Decouverte",Ushuaia TV HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108213
-#EXTINF:-1 tvg-id="" tvg-name="Animaux HD FR" tvg-logo="http://cdn2.ga:2021/images/76c0323e99ebe06f51805c257981d468.png" group-title="France Decouverte",Animaux HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108214
-#EXTINF:-1 tvg-id="" tvg-name="Science & Vie HD FR" tvg-logo="http://cdn2.ga:2021/images/78aadb9b22ebdb98e58055463b7ce9bf.png" group-title="France Decouverte",Science & Vie HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108215
-#EXTINF:-1 tvg-id="" tvg-name="Chasse & Peche HD FR" tvg-logo="http://cdn2.ga:2021/images/04b1d137da63241f8f855c8ebbcae87c.png" group-title="France Decouverte",Chasse & Peche HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108216
-#EXTINF:-1 tvg-id="" tvg-name="Season HD FR" tvg-logo="http://cdn2.ga:2021/images/8ea4fc5437269d5ae6f73eb229a165c7.png" group-title="France Decouverte",Season HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108217
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD FR" tvg-logo="http://cdn2.ga:2021/images/e3d4370296451491db771140cd44ea6d.png" group-title="France Decouverte",Discovery HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108218
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD FR" tvg-logo="http://cdn2.ga:2021/images/1a17a56f4aa63450618d57e84f620565.png" group-title="France Decouverte",Discovery Science HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108219
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD FR" tvg-logo="http://cdn2.ga:2021/images/5159ee3c62409505fc5a3d54dc7bcafb.png" group-title="France Decouverte",Discovery Investigation HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108220
-#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte HD FR" tvg-logo="http://cdn2.ga:2021/images/43bb252d829f3ea6fe15336d9f6bac2c.png" group-title="France Decouverte",RMC Decouverte HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108221
-#EXTINF:-1 tvg-id="" tvg-name="Crime District HD FR" tvg-logo="http://cdn2.ga:2021/images/d4bd3f639a654565c49dda3d950f62b7.png" group-title="France Decouverte",Crime District HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/149751
-#EXTINF:-1 tvg-id="" tvg-name="Histoire HD FR" tvg-logo="http://cdn2.ga:2021/images/ac072ed682fec5f303dc81cd3076abc8.png" group-title="France Decouverte",Histoire HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108223
-#EXTINF:-1 tvg-id="" tvg-name="Toute l'Histoire HD FR" tvg-logo="http://cdn2.ga:2021/images/20bddfafa556d3d23d8efaf8eb803bbc.png" group-title="France Decouverte",Toute l'Histoire HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108224
-#EXTINF:-1 tvg-id="" tvg-name="Trek HD FR" tvg-logo="http://cdn2.ga:2021/images/02b97c48e57c3e5e2b1992f9c37f068f.png" group-title="France Decouverte",Trek HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108222
-#EXTINF:-1 tvg-id="" tvg-name="MUSEUM TV HD FR" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="France Decouverte",MUSEUM TV HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/224324
 #EXTINF:-1 tvg-id="" tvg-name="Piwi+ HD FR" tvg-logo="http://cdn2.ga:2021/images/c26ef0e9d6ecef68e241a7732d2dedcd.png" group-title="France Enfant",Piwi+ HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108225
 #EXTINF:-1 tvg-id="" tvg-name="TIJI HD FR" tvg-logo="http://cdn2.ga:2021/images/232e0b8cf0d28bc80aa685daf6e9c729.png" group-title="France Enfant",TIJI HD FR
@@ -247,21 +293,120 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/108240
 http://etv.nikala.se:1996/45924301150697/45924301150697/108241
 #EXTINF:-1 tvg-id="" tvg-name="J-ONE HD FR" tvg-logo="http://158.69.124.154/PICONS-AP-OTT/PICONS-BOUQUET-FRANCEHD/JONE.png" group-title="France Enfant",J-ONE HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108242
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 HD" tvg-logo="https://i.imgur.com/1KdIyzP.png" group-title="France Rmc Sport",RMC Sport 1 HD
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD" tvg-logo="http://smartes-plus.com:1996/images/5f93f983524def3dca464469d2cf9f3e.png" group-title="beIN Sports",beIN Sports News HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108613
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport HD" tvg-logo="http://smartes-plus.com:1996/images/18d8042386b79e2c279fd162df0205c8.png" group-title="beIN Sports",beIN Sport HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108614
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD" tvg-logo="http://smartes-plus.com:1996/images/664e959174fde9763f371b9988aa84e0.png" group-title="beIN Sports",beIN Sports Premium 1 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108615
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD" tvg-logo="http://smartes-plus.com:1996/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="beIN Sports",beIN Sports Premium 2 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108616
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 HD" tvg-logo="http://smartes-plus.com:1996/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="beIN Sports",beIN Sports Premium 3 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108617
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD" tvg-logo="http://smartes-plus.com:1996/images/27cb32fe67691f6d913545795b767a28.png" group-title="beIN Sports",beIN Sports 1 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108618
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="http://smartes-plus.com:1996/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="beIN Sports",beIN Sports 2 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108619
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="http://smartes-plus.com:1996/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="beIN Sports",beIN Sports 3 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108620
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD" tvg-logo="http://smartes-plus.com:1996/images/9209863f5031badd668c134c468bff98.png" group-title="beIN Sports",beIN Sports 4 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108621
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD" tvg-logo="http://smartes-plus.com:1996/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="beIN Sports",beIN Sports 5 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108622
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD" tvg-logo="http://smartes-plus.com:1996/images/f07949b80706f3d25c9d28a1b8b623b7.png" group-title="beIN Sports",beIN Sports 6 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108623
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD" tvg-logo="http://smartes-plus.com:1996/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="beIN Sports",beIN Sports 7 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108624
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 English HD" tvg-logo="http://smartes-plus.com:1996/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="beIN Sports",beIN Sports 1 English HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/214050
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 English HD" tvg-logo="http://smartes-plus.com:1996/images/a733f8868555620556c53ff670fcb934.png" group-title="beIN Sports",beIN Sports 2 English HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/214051
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 French HD" tvg-logo="http://smartes-plus.com:1996/images/94260e63c085dc1200fad2d4a65c61af.png" group-title="beIN Sports",beIN Sports 1 French HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/214053
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 French HD" tvg-logo="http://smartes-plus.com:1996/images/0ee338a60a77f5012d04f769d4e922e7.png" group-title="beIN Sports",beIN Sports 2 French HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/214054
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA HD" tvg-logo="http://smartes-plus.com:1996/images/0d89b64b4c89309419879e9bfc827518.png" group-title="beIN Sports",beIN Sports NBA HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/214055
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News SD" tvg-logo="" group-title="beIN Sports",beIN Sports News SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224314
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport SD" tvg-logo="" group-title="beIN Sports",beIN Sport SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/224315
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 SD" tvg-logo="http://smartes-plus.com:1996/images/664e959174fde9763f371b9988aa84e0.png" group-title="beIN Sports",beIN Sports Premium 1 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196386
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 SD" tvg-logo="http://smartes-plus.com:1996/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="beIN Sports",beIN Sports Premium 2 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196387
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 SD" tvg-logo="http://smartes-plus.com:1996/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="beIN Sports",beIN Sports Premium 3 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196388
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 SD" tvg-logo="http://smartes-plus.com:1996/images/27cb32fe67691f6d913545795b767a28.png" group-title="beIN Sports",beIN Sports 1 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196389
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 SD" tvg-logo="http://smartes-plus.com:1996/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="beIN Sports",beIN Sports 2 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196390
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 SD" tvg-logo="http://smartes-plus.com:1996/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="beIN Sports",beIN Sports 3 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196391
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 SD" tvg-logo="http://smartes-plus.com:1996/images/9209863f5031badd668c134c468bff98.png" group-title="beIN Sports",beIN Sports 4 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196392
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 SD" tvg-logo="http://smartes-plus.com:1996/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="beIN Sports",beIN Sports 5 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196393
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 SD" tvg-logo="http://smartes-plus.com:1996/images/f07949b80706f3d25c9d28a1b8b623b7.png" group-title="beIN Sports",beIN Sports 6 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196394
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 SD" tvg-logo="http://smartes-plus.com:1996/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="beIN Sports",beIN Sports 7 SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/196395
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HEVC" tvg-logo="http://smartes-plus.com:1996/images/664e959174fde9763f371b9988aa84e0.png" group-title="beIN Sports",beIN Sports Premium 1 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214075
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HEVC" tvg-logo="http://smartes-plus.com:1996/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="beIN Sports",beIN Sports Premium 2 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214076
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 HEVC" tvg-logo="http://smartes-plus.com:1996/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="beIN Sports",beIN Sports Premium 3 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214077
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HEVC" tvg-logo="http://smartes-plus.com:1996/images/27cb32fe67691f6d913545795b767a28.png" group-title="beIN Sports",beIN Sports 1 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214078
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HEVC" tvg-logo="http://smartes-plus.com:1996/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="beIN Sports",beIN Sports 2 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214079
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HEVC" tvg-logo="http://smartes-plus.com:1996/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="beIN Sports",beIN Sports 3 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214080
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HEVC" tvg-logo="http://smartes-plus.com:1996/images/9209863f5031badd668c134c468bff98.png" group-title="beIN Sports",beIN Sports 4 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214081
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HEVC" tvg-logo="http://smartes-plus.com:1996/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="beIN Sports",beIN Sports 5 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214082
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HEVC" tvg-logo="http://smartes-plus.com:1996/images/f07949b80706f3d25c9d28a1b8b623b7.png" group-title="beIN Sports",beIN Sports 6 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214083
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HEVC" tvg-logo="http://smartes-plus.com:1996/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="beIN Sports",beIN Sports 7 HEVC
+http://etv.nikala.se:1996/45924301150697/45924301150697/214084
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD FR" tvg-logo="http://smartes-plus.com:1996/images/94260e63c085dc1200fad2d4a65c61af.png" group-title="beIN Sports",beIN Sports 1 HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108243
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD FR" tvg-logo="http://neotv.gq:2052/images/0ee338a60a77f5012d04f769d4e922e7.png" group-title="beIN Sports",beIN Sports 2 HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108244
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD FR" tvg-logo="http://smartes-plus.com:1996/images/df1000747d015461c9c5a98a31c59979.png" group-title="beIN Sports",beIN Sports 3 HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108245
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 4 HD." tvg-logo="http://smartes-plus.com:1996/images/f0b4a876149ef76f9b20582ec1f5bbd4.png" group-title="beIN Sports",beIN Sports Max 4 HD.
+http://etv.nikala.se:1996/45924301150697/45924301150697/108246
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 5 HD." tvg-logo="http://smartes-plus.com:1996/images/c6854fbb452fea877d01ab8ff9ca3df6.png" group-title="beIN Sports",beIN Sports Max 5 HD.
+http://etv.nikala.se:1996/45924301150697/45924301150697/108247
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 6 HD." tvg-logo="http://smartes-plus.com:1996/images/72ae25dd3ccee6d868d5974433408dce.png" group-title="beIN Sports",beIN Sports Max 6 HD.
+http://etv.nikala.se:1996/45924301150697/45924301150697/108248
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 7 HD" tvg-logo="http://neotv.gq:2052/images/0092c0c82938ff4b690cec83257e7ded.png" group-title="beIN Sports",beIN Sports Max 7 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108249
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 8 HD" tvg-logo="http://neotv.gq:2052/images/121af553b6e12ea66fe5405b25e102d7.png" group-title="beIN Sports",beIN Sports Max 8 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108250
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 9 HD" tvg-logo="http://neotv.gq:2052/images/618c14c81484316628cd6919bff20ef4.png" group-title="beIN Sports",beIN Sports Max 9 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108251
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 10 HD" tvg-logo="http://smartes-plus.com:1996/images/473d7a8ae97aafef2d54f92cebd28c95.png" group-title="beIN Sports",beIN Sports Max 10 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108252
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1 HD" tvg-logo="https://i.imgur.com/1KdIyzP.png" group-title="France Sport",RMC Sport 1 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/108255
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 HD" tvg-logo="http://smartes-plus.com:1996/images/f5e9ddb2e4b8bbcecb188882f96c393d.png" group-title="France Rmc Sport",RMC Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2 HD" tvg-logo="http://smartes-plus.com:1996/images/f5e9ddb2e4b8bbcecb188882f96c393d.png" group-title="France Sport",RMC Sport 2 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/108256
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 3 HD" tvg-logo="http://smartes-plus.com:1996/images/f3362e9f1c5e34cad34d36f7f9a4983a.png" group-title="France Rmc Sport",RMC Sport Live 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 3 HD" tvg-logo="http://smartes-plus.com:1996/images/f3362e9f1c5e34cad34d36f7f9a4983a.png" group-title="France Sport",RMC Sport Live 3 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/108257
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 4 HD" tvg-logo="http://smartes-plus.com:1996/images/755e70c0411d14bd27bae53fee4592e2.png" group-title="France Rmc Sport",RMC Sport Live 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 4 HD" tvg-logo="http://smartes-plus.com:1996/images/755e70c0411d14bd27bae53fee4592e2.png" group-title="France Sport",RMC Sport Live 4 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/108258
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 5 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-5-1572.png" group-title="France Rmc Sport",RMC Sport Live 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 5 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-5-1572.png" group-title="France Sport",RMC Sport Live 5 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/212202
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 6 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-6-1573.png" group-title="France Rmc Sport",RMC Sport Live 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 6 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-6-1573.png" group-title="France Sport",RMC Sport Live 6 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/212203
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 7 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-7-1574.png" group-title="France Rmc Sport",RMC Sport Live 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 7 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-7-1574.png" group-title="France Sport",RMC Sport Live 7 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/212204
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 8 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-8-1571.png" group-title="France Rmc Sport",RMC Sport Live 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport Live 8 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-rmc-sport-live-8-1571.png" group-title="France Sport",RMC Sport Live 8 HD
 http://etv.nikala.se:1996/45924301150697/45924301150697/212205
 #EXTINF:-1 tvg-id="" tvg-name="Infosport+ HD FR" tvg-logo="http://cdn2.ga:2021/images/6d6ae23411b564d49df3484943b11e6f.png" group-title="France Sport",Infosport+ HD FR
 http://etv.nikala.se:1996/45924301150697/45924301150697/108266
