@@ -170,64 +170,16 @@ http://etv.nikala.se:1996/45924301150697/45924301150697/224324
 
 
 
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr",TV5Monde Info (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" group-title="France TNT",TV5Monde Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr",TV5Monde Maghreb-Orient (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" group-title="France TNT",TV5Monde Maghreb-Orient (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" group-title="France TNT",TF1 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108134
-#EXTINF:-1 tvg-id="" tvg-name="M6 HD" tvg-logo="http://smartes-plus.com:1996/images/36604411a85db2bd9e97e22bfb5b692d.png" group-title="France TNT",M6 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108136
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV (1080p)
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="France TNT" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://i.imgur.com/wOnfSjd.png" group-title="Undefined" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Paris Île-de-France (1080p)
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://i.imgur.com/wOnfSjd.png" group-title="France TNT" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Paris Île-de-France (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
-#EXTINF:-1 tvg-id="" tvg-name="M6 international HD" tvg-logo="https://static.epg.best/fr/M6.fr.png" group-title="France TNT",M6 international HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/224333
-#EXTINF:-1 tvg-id="" tvg-name="France 2 HD" tvg-logo="http://smartes-plus.com:1996/images/2064596f30482beb78b54f515d85b885.png" group-title="France TNT",France 2 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108137
-#EXTINF:-1 tvg-id="" tvg-name="France 3 HD" tvg-logo="http://neotv.gq:2052/images/14aca927c1c94aadf84caf2b5a2beaae.png" group-title="France TNT",France 3 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108138
-#EXTINF:-1 tvg-id="" tvg-name="France 4 HD" tvg-logo="http://neotv.gq:2052/images/be1935a610803804de1ec55bf9fd4d0d.png" group-title="France TNT",France 4 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108139
-#EXTINF:-1 tvg-id="" tvg-name="France 5 HD" tvg-logo="http://smartes-plus.com:1996/images/34e4184aa48a90975d0cee883e214021.png" group-title="France TNT",France 5 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108140
-#EXTINF:-1 tvg-id="" tvg-name="TFX HD" tvg-logo="http://smartes-plus.com:1996/images/56ac3598fe365f62e4adf531eab56eae.png" group-title="France TNT",TFX HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108141
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films HD" tvg-logo="http://smartes-plus.com:1996/images/bca667e49dbef5d63fe26d7d433bfdde.png" group-title="France TNT",TF1 Series Films HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108142
-#EXTINF:-1 tvg-id="" tvg-name="TMC HD FR" tvg-logo="http://smartes-plus.com:1996/images/cc4774aeecab88f14aef2a30ca324f7a.png" group-title="France TNT",TMC HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108143
-#EXTINF:-1 tvg-id="" tvg-name="6ter HD" tvg-logo="http://neotv.gq:2052/images/ffeca83b756a33769205daa1f65a5c45.png" group-title="France TNT",6ter HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108145
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="http://smartes-plus.com:1996/images/7cd1d2b54911b95b06b1c423bd551f2f.png" group-title="France TNT",C8 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108146
-#EXTINF:-1 tvg-id="" tvg-name="CStar HD" tvg-logo="http://smartes-plus.com:1996/images/8531451df89621c68e13905645882bd4.png" group-title="France TNT",CStar HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108147
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://smartes-plus.com:1996/images/ef33778f5cce7c2968078d241a7da154.png" group-title="France TNT",W9 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108148
-#EXTINF:-1 tvg-id="" tvg-name="Cherie 25 HD" tvg-logo="http://neotv.gq:2052/images/ceef75ddd97077f366f8c3a33fdaa8ed.png" group-title="France TNT",Cherie 25 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108149
-#EXTINF:-1 tvg-id="" tvg-name="NRJ 12 HD" tvg-logo="http://neotv.gq:2052/images/065b765b6d06fc2b5b3a16e35a6e622a.png" group-title="France TNT",NRJ 12 HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108150
-#EXTINF:-1 tvg-id="" tvg-name="RMC Story HD" tvg-logo="http://neotv.gq:2052/images/f37f305fc9fddfda4de5e51ba7872e55.png" group-title="France TNT",RMC Story HD
-http://etv.nikala.se:1996/45924301150697/45924301150697/108151
-#EXTINF:-1 tvg-id="" tvg-name="LCI HD FR" tvg-logo="http://smartes-plus.com:1996/images/bcaa86ab4661c5cc6f6c7c7a36dc17f2.png" group-title="France TNT",LCI HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108193
-#EXTINF:-1 tvg-id="" tvg-name="CNews HD FR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/178x132/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93469121" group-title="France TNT",CNews HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108195
-#EXTINF:-1 tvg-id="" tvg-name="I24 NEWS HD FR" tvg-logo="http://smartes-plus.com:1996/images/46e05987e7a12e646860f2eb4cb300c9.jpg" group-title="France TNT",I24 NEWS HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108201
-#EXTINF:-1 tvg-id="" tvg-name="FranceInfo: HD FR" tvg-logo="http://smartes-plus.com:1996/images/52d4f1c94eafff70b8eb0a3449369251.jpg" group-title="France TNT",FranceInfo: HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108202
-#EXTINF:-1 tvg-id="" tvg-name="France 24 HD FR" tvg-logo="http://smartes-plus.com:1996/images/460ada22aaa74005e516015d92d43ad6.png" group-title="France TNT",France 24 HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108203
-#EXTINF:-1 tvg-id="" tvg-name="Euronews HD FR" tvg-logo="http://smartes-plus.com:1996/images/a6fa8ba38ee5f7030d97c2efc9535b15.jpg" group-title="France TNT",Euronews HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108204
-#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="https://fransat.co.uk/img/FransatChannelImages/arte_fr.png" group-title="France TNT",Arte HD FR
-http://etv.nikala.se:1996/45924301150697/45924301150697/108206
-
-
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="France TNT",Chérie 25 (1080p)
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 
