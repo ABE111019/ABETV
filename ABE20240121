@@ -1,0 +1,188 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/aw.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/dz.xml"
+
+#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="Maroc",Al Aoula International (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-id="2M.ma" tvg-logo="https://i.imgur.com/AnKB6kC.png" group-title="Maroc",2M Monde (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="Maroc",Al Aoula Laayoune (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="Maroc",Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Maroc",Arrabiaa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="Maroc",Assadissa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Maroc",Maghreb Arabe Press (720p) [Not 24/7]
+https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="Maroc",Tamazight (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Arabe",Al Jazeera Arabic (1080p)
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="Arabe",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="Arabe",Al Jazeera English (1080p)
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-id="IqraaArabic.sa" tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Arabe",Iqraa (576p) [Not 24/7]
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mbc1logo.png/512px-Mbc1logo.png" group-title="Arabe",MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/512px-MBC_4_TV_Channel_Logo.png" group-title="Arabe",MBC 4 (1080p)
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png" group-title="Arabe",MBC Drama KSA (1080p)
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-logo="https://mbc-mood.s3.amazonaws.com/channels/16439614501635428726MBCfmmob.png" group-title="Arabe",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Arabe",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ahl Alquran" tvg-logo="" group-title="Arabe",Ahl Alquran
+http://etv.nikala.se:1996/45924301150697/45924301150697/224325
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Al Hadeeth Al Nabawy" tvg-logo="http://drtv.ga:2021/images/3def184ad8f4755ff269862ea77393dd.png" group-title="Arabe",Al Majd Al Hadeeth Al Nabawy
+http://etv.nikala.se:1996/45924301150697/45924301150697/2221
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Public Channel" tvg-logo="" group-title="Arabe",Al Majd Public Channel
+http://etv.nikala.se:1996/45924301150697/45924301150697/7199
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Quran" tvg-logo="http://drtv.ga:2021/images/e70611883d2760c8bbafb4acb29e3446.png" group-title="Arabe",Al Majd Quran
+http://etv.nikala.se:1996/45924301150697/45924301150697/2220
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Scientific" tvg-logo="http://cdn2.ga:2021/images/f64eac11f2cd8f0efa196f8ad173178e.png" group-title="Arabe",Al Majd Scientific
+http://etv.nikala.se:1996/45924301150697/45924301150697/2222
+#EXTINF:-1 tvg-id="" tvg-name="Al nas TV" tvg-logo="http://158.69.124.154/PICONS-AP-OTT/ISLAMIC/Al nas.png" group-title="Arabe",Al nas TV
+http://etv.nikala.se:1996/45924301150697/45924301150697/538
+#EXTINF:-1 tvg-id="" tvg-name="Al Rahma" tvg-logo="http://cdn2.ga:2021/images/298923c8190045e91288b430794814c4.png" group-title="Arabe",Al Rahma
+http://etv.nikala.se:1996/45924301150697/45924301150697/537
+#EXTINF:-1 tvg-id="" tvg-name="Al Resala" tvg-logo="http://cdn2.ga:2021/images/1368ba1ab6ed38bb1f26f36673739d54.png" group-title="Arabe",Al Resala
+http://etv.nikala.se:1996/45924301150697/45924301150697/536
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa" tvg-logo="http://158.69.124.154/PICONS-AP-OTT/PICONS-BOUQUET-ARABIC/IQRAA.png" group-title="Arabe",Iqraa
+http://etv.nikala.se:1996/45924301150697/45924301150697/535
+#EXTINF:-1 tvg-id="" tvg-name="Misr Quran Kareem" tvg-logo="http://drtv.ga:2021/images/7a55696d064799c8abaa4eabbedc4466.png" group-title="Arabe",Misr Quran Kareem
+http://etv.nikala.se:1996/45924301150697/45924301150697/184013
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Quran" tvg-logo="http://158.69.124.154/PICONS-AP-OTT/PICONS-BOUQUET-ARABIC/SAUDIQUARAN.png" group-title="Arabe",Saudi Quran
+http://etv.nikala.se:1996/45924301150697/45924301150697/532
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="http://cdn2.ga:2021/images/953ca576dc6a7a8f31f74b0b314b1809.png" group-title="Arabe",Saudi Sunnah
+http://etv.nikala.se:1996/45924301150697/45924301150697/530
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera FHD" tvg-logo="" group-title="Arabe",Aljazeera FHD
+http://etv.nikala.se:1996/45924301150697/45924301150697/213850
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera HD" tvg-logo="http://goldplus.ga:2021/images/47521dbd84531463393d2027e0cab3f0.png" group-title="Arabe",Aljazeera HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/561
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera SD" tvg-logo="" group-title="Arabe",Aljazeera SD
+http://etv.nikala.se:1996/45924301150697/45924301150697/213851
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera Documentary" tvg-logo="http://drtv.ga:2021/images/088c6e47405e3f20e57b519c984b3808.png" group-title="Arabe",Aljazeera Documentary
+http://etv.nikala.se:1996/45924301150697/45924301150697/552
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath HD" tvg-logo="http://goldplus.ga:2021/images/05b8eded75c7b42c86b711a9284258de.png" group-title="Arabe",Al Hadath HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/559
+#EXTINF:-1 tvg-id="" tvg-name="Al arabiya" tvg-logo="http://cdn2.ga:2021/images/b6883b9053cc9f07082a7d83ac83af42.png" group-title="Arabe",Al arabiya
+http://etv.nikala.se:1996/45924301150697/45924301150697/560
+#EXTINF:-1 tvg-id="" tvg-name="Al Hiwar HD" tvg-logo="http://goldplus.ga:2021/images/fbfa235e1aca21984bc3d28f565e7a7c.png" group-title="Arabe",Al Hiwar HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/15509
+#EXTINF:-1 tvg-id="" tvg-name="BBC World Arabic" tvg-logo="http://goldplus.ga:2021/images/47d1e990583c9c67424d369f3414728e.png" group-title="Arabe",BBC World Arabic
+http://etv.nikala.se:1996/45924301150697/45924301150697/554
+#EXTINF:-1 tvg-id="" tvg-name="DW Arabia HD" tvg-logo="http://goldplus.ga:2021/images/0bdfe2e55090d6be70793778d0d8e147.png" group-title="Arabe",DW Arabia HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/553
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Arabic" tvg-logo="http://cdn2.ga:2021/images/b29837b83fe6420556ce9d5c86e28012.png" group-title="Arabe",France 24 Arabic
+http://etv.nikala.se:1996/45924301150697/45924301150697/558
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia HD" tvg-logo="http://goldplus.ga:2021/images/c2accfef9b8710c481cbfcc4ac86327a.png" group-title="Arabe",Sky News Arabia HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/557
+#EXTINF:-1 tvg-id="" tvg-name="Al Mayadeen TV" tvg-logo="http://cdn2.ga:2021/images/0e4fb4e9f17d4617ac6c152710c02097.png" group-title="Arabe",Al Mayadeen TV
+http://etv.nikala.se:1996/45924301150697/45924301150697/15035
+#EXTINF:-1 tvg-id="" tvg-name="TRT Arabic HD" tvg-logo="http://goldplus.ga:2021/images/62e1bfb2517690b507ad6e63415943d1.png" group-title="Arabe",TRT Arabic HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/15510
+#EXTINF:-1 tvg-id="" tvg-name="Asharq News HD" tvg-logo="http://goldplus.ga:2021/images/5cb326a348a898c8795198eee68740d1.png" group-title="Arabe",Asharq News HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/149738
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/827.png" group-title="Arabe",MBC 1 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148747
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="http://smartes-plus.com:1996/images/c2626d850c80ea07e7511bbae4c76f4b.png" group-title="Arabe",MBC 2 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148748
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/2200.png" group-title="Arabe",MBC 3 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148749
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="http://smartes-plus.com:1996/images/ce78d1da254c0843eb23951ae077ff5f.png" group-title="Arabe",MBC 4 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148750
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5 HD" tvg-logo="http://goldplus.ga:2021/images/831f4986a42a58560cbe172bbbb7bc22.png" group-title="Arabe",MBC 5 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148751
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action HD" tvg-logo="http://smartes-plus.com:1996/images/8f1d43620bc6bb580df6e80b0dc05c48.png" group-title="Arabe",MBC Action HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148752
+#EXTINF:-1 tvg-id="" tvg-name="MBC max HD" tvg-logo="http://smartes-plus.com:1996/images/e45823afe1e5120cec11fc4c379a0c67.png" group-title="Arabe",MBC max HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148753
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood HD" tvg-logo="http://neotv.gq:8080/ffgkgkfklogo/logo/347.png" group-title="Arabe",MBC Bollywood HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148754
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama HD" tvg-logo="http://goldplus.ga:2021/images/bcba4bfe7c0c0c2cdcc8f448161beb54.png" group-title="Arabe",MBC Drama HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148755
+#EXTINF:-1 tvg-id="" tvg-name="MBC+ Drama HD" tvg-logo="http://goldplus.ga:2021/images/81fac95c9791f7c445342113743b7660.png" group-title="Arabe",MBC+ Drama HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148756
+#EXTINF:-1 tvg-id="" tvg-name="MBC+ Variety HD" tvg-logo="http://goldplus.ga:2021/images/55bcdbca612b55f0f57a46643b098197.png" group-title="Arabe",MBC+ Variety HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/185519
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq HD" tvg-logo="http://goldplus.ga:2021/images/7e6264a6cfa77f51ee7fbae64c1008b1.png" group-title="Arabe",MBC Iraq HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/148757
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr HD" tvg-logo="http://goldplus.ga:2021/images/99a9e8cdc108f968b159dd492621cfcc.png" group-title="Arabe",MBC Masr HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/149748
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2 HD" tvg-logo="http://goldplus.ga:2021/images/bf6ae3a8eb73ac2422a51fe7092c60a6.png" group-title="Arabe",MBC Masr 2 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/149749
+
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/512px-Nat_geo_channel_abu_dhabi.png" group-title="Decouverte",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="Decouverte",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 5 HD" tvg-logo="http://smartes-plus.com:1996/images/34e4184aa48a90975d0cee883e214021.png" group-title="Decouverte",France 5 HD
+http://etv.nikala.se:1996/45924301150697/45924301150697/108140
+#EXTINF:-1 tvg-id="" tvg-name="Arte HD FR" tvg-logo="https://fransat.co.uk/img/FransatChannelImages/arte_fr.png" group-title="Decouverte",Arte HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108206
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ HD FR" tvg-logo="http://cdn2.ga:2021/images/9c1da5846bffd73cec6d67eca13185d0.png" group-title="Decouverte",Planete+ HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108208
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ A&E HD FR" tvg-logo="http://cdn2.ga:2021/images/266f9f2ddf8617ef083e53c963bc1dc5.png" group-title="Decouverte",Planete+ A&E HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108209
+#EXTINF:-1 tvg-id="" tvg-name="Planete+ CI HD FR" tvg-logo="http://cdn2.ga:2021/images/e4aa3f53ff9421a7f237e01ec0b44272.png" group-title="Decouverte",Planete+ CI HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108210
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo WILD HD FR" tvg-logo="http://cdn2.ga:2021/images/5a8510e39b93ac338456f84c06f0203b.png" group-title="Decouverte",Nat Geo WILD HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108211
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD FR" tvg-logo="http://cdn2.ga:2021/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="Decouverte",National Geographic HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108212
+#EXTINF:-1 tvg-id="" tvg-name="Ushuaia TV HD FR" tvg-logo="http://cdn2.ga:2021/images/c52e5234714d28ccfd40e213f2142739.png" group-title="Decouverte",Ushuaia TV HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108213
+#EXTINF:-1 tvg-id="" tvg-name="Animaux HD FR" tvg-logo="http://cdn2.ga:2021/images/76c0323e99ebe06f51805c257981d468.png" group-title="Decouverte",Animaux HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108214
+#EXTINF:-1 tvg-id="" tvg-name="Science & Vie HD FR" tvg-logo="http://cdn2.ga:2021/images/78aadb9b22ebdb98e58055463b7ce9bf.png" group-title="Decouverte",Science & Vie HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108215
+#EXTINF:-1 tvg-id="" tvg-name="Chasse & Peche HD FR" tvg-logo="http://cdn2.ga:2021/images/04b1d137da63241f8f855c8ebbcae87c.png" group-title="Decouverte",Chasse & Peche HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108216
+#EXTINF:-1 tvg-id="" tvg-name="Season HD FR" tvg-logo="http://cdn2.ga:2021/images/8ea4fc5437269d5ae6f73eb229a165c7.png" group-title="Decouverte",Season HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108217
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD FR" tvg-logo="http://cdn2.ga:2021/images/e3d4370296451491db771140cd44ea6d.png" group-title="Decouverte",Discovery HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108218
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD FR" tvg-logo="http://cdn2.ga:2021/images/1a17a56f4aa63450618d57e84f620565.png" group-title="Decouverte",Discovery Science HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108219
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD FR" tvg-logo="http://cdn2.ga:2021/images/5159ee3c62409505fc5a3d54dc7bcafb.png" group-title="Decouverte",Discovery Investigation HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108220
+#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte HD FR" tvg-logo="http://cdn2.ga:2021/images/43bb252d829f3ea6fe15336d9f6bac2c.png" group-title="Decouverte",RMC Decouverte HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108221
+#EXTINF:-1 tvg-id="" tvg-name="Crime District HD FR" tvg-logo="http://cdn2.ga:2021/images/d4bd3f639a654565c49dda3d950f62b7.png" group-title="Decouverte",Crime District HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/149751
+#EXTINF:-1 tvg-id="" tvg-name="Histoire HD FR" tvg-logo="http://cdn2.ga:2021/images/ac072ed682fec5f303dc81cd3076abc8.png" group-title="Decouverte",Histoire HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108223
+#EXTINF:-1 tvg-id="" tvg-name="Toute l'Histoire HD FR" tvg-logo="http://cdn2.ga:2021/images/20bddfafa556d3d23d8efaf8eb803bbc.png" group-title="Decouverte",Toute l'Histoire HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108224
+#EXTINF:-1 tvg-id="" tvg-name="Trek HD FR" tvg-logo="http://cdn2.ga:2021/images/02b97c48e57c3e5e2b1992f9c37f068f.png" group-title="Decouverte",Trek HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/108222
+#EXTINF:-1 tvg-id="" tvg-name="MUSEUM TV HD FR" tvg-logo="https://i.ibb.co/LgSzMCy/museum.webp" group-title="Decouverte",MUSEUM TV HD FR
+http://etv.nikala.se:1996/45924301150697/45924301150697/224324
+
+
+
+
+
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="France TNT",Euronews Français (720p)
+https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" group-title="France TNT",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" group-title="France TNT",TV5Monde Maghreb-Orient (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="France TNT" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-logo="https://i.imgur.com/wOnfSjd.png" group-title="France TNT" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM Paris Île-de-France (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" group-title="France TNT",Chérie 25 (1080p)
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
+
